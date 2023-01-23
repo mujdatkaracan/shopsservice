@@ -1,0 +1,15 @@
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\bin\Debug\net7.0\ShopsService.Domain.deps.json
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\bin\Debug\net7.0\ShopsService.Domain.dll
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\bin\Debug\net7.0\ShopsService.Domain.pdb
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\bin\Debug\net7.0\ShopsService.Common.dll
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\bin\Debug\net7.0\ShopsService.Common.pdb
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.csproj.AssemblyReference.cache
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.AssemblyInfoInputs.cache
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.AssemblyInfo.cs
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.csproj.CopyComplete
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.dll
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\refint\ShopsService.Domain.dll
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ShopsService.Domain.pdb
+C:\Users\mujdat.karacan\Development\ShopsService\ShopsService.Domain\obj\Debug\net7.0\ref\ShopsService.Domain.dll

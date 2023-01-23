@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g/7EeYmB0M+pMM5qH+YQHYC+0NcprfIip72egqDMz4U=",
+  "Source": "ShopsService.WebAPI",
+  "BasePath": "_content/ShopsService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
